@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31501.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend_Login_Register_Task", "Backend_Login_Register_Task\Backend_Login_Register_Task.csproj", "{E463B5D6-B645-4D43-A91C-CB18D3BF2210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E463B5D6-B645-4D43-A91C-CB18D3BF2210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E463B5D6-B645-4D43-A91C-CB18D3BF2210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E463B5D6-B645-4D43-A91C-CB18D3BF2210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E463B5D6-B645-4D43-A91C-CB18D3BF2210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C8B2EB-8069-4953-B9DB-D38B5FF4A368}
+	EndGlobalSection
+EndGlobal
